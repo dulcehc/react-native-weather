@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 21173,
+  "expoServerNgrokUrl": "https://yj-r4n.motameet.weather.exp.direct",
+  "packagerNgrokUrl": "https://packager.yj-r4n.motameet.weather.exp.direct",
+  "ngrokPid": 21229,
+  "webpackServerPort": null
+}
